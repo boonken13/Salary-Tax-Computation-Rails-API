@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_name: MyString
+  annual_salary: 
+  monthly_income_tax: 
+
+two:
+  employee_name: MyString
+  annual_salary: 
+  monthly_income_tax: 

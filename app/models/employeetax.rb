@@ -1,0 +1,3 @@
+class Employeetax < ApplicationRecord
+
+end
